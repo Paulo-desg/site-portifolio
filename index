@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<heade>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web</title>
+    <!--link do css-->
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <!--link do boxicons-->
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <!--link dos googel fontes-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@300;500;700;800;900&display=swap" rel="stylesheet">
+</heade>
+<body>
+    
+    <!--header designer-->
+    <header>
+        <a href="#" class="logo">Cod<span>e</span>r. <span>Paulo</span></a>
+
+        <ul class="navlist">
+            <li><a href="#Lar" class="active">Lar</a></li>
+            <li><a href="#Sobre Mim">Sobre Mim</a></li>
+            <li><a href="#Serviços">Serviços</a></li>
+            <li><a href="#Portfólio">Portfólio</a></li>
+            <li><a href="#Contate-me">Contate-me</a></li>
+        </ul>
+
+        <div class="bx bx-menu" id="menu-icon"></div>
+    </header>
+
+    <!--home section designer-->
+    <section class="home" id="Lar">
+        <div class="home-text">
+            <div class="slide">
+                <span class="one">Io!</span>
+                <span class="two">Meu Nome E</span>
+            </div>
+            <h1>Samuel</h1>
+            <h3>UI/UX <span>Designer.</span></h3>
+            <p>Web desenvolvedor vou te ajudar a fazer uma arte perfeita <br> 
+                do jeito que vc imaginar com minha criatividade.</p>
+            <div class="button">
+                <a href="#" class="btn">Meu Curriculo</a>
+                <!--<a href="#" class="btn2"><span><i class='bx bx-play'></i></span></a>Assistir Meu Trabalho-->
+            </div>
+        </div>
+    </section>
+
+    <!--Sobre cessão designer-->
+    <section class="About" id="Sobre Mim">
+        <div class="about-img">
+            <img src="img/model.jpg" alt="" width="400px">
+        </div>
+
+        <div class="about-text">
+            <h2>Sobre <span>Meu</span></h2>
+            <h4>Designer Criativo de UI/UX</h4>
+            <p>eu sei que vc me quer ent venha logo se não vc vai perde o tempo, eu sou pasageiro, espere que não volto mais, não se deixe levar pelo prazer de me querer venha e conquiste logo, esta esperando oque </p>
+            <a href="#" class="btn">Mais sobre</a>
+        </div>
+    </section>
+
+    <!--serviço cessão designer-->
+    <section class="services" id="Serviços">
+        <div class="main-text">
+            <p>No Que Sou Especializado</p>
+            <h2><span>Meus </span>Serviços</h2>
+        </div>
+        <div class="services-content">
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bx-mobile-alt'></i>
+                </div>
+                <h3>Web Designer</h3>
+                <p>parexce qu eo jogo virou não e mesmo eu acho que da pra procegui, 
+                mais não vou para isso sim eu sei  isso dai vamos la fazer essa bagaça,
+                corporation strageira</p>
+                <a href="#" class="read">Mais informaçães</a>
+            </div>
+
+            <!--<div class="box">
+                <div class="s-icons">
+                    <i class='bx bx-code-alt' ></i>
+                </div>
+                <h3>Desenvolvimento Web</h3>
+                <p>parexce qu eo jogo virou não e mesmo eu acho que da pra procegui, 
+                mais não vou para isso sim eu sei  isso dai vamos la fazer essa bagaça,
+                corporation strageira</p>
+                <a href="#" class="read">Read More</a>
+            </div>-->
+
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bx-edit-alt'></i>
+                </div>
+                <h3>Designer criativo</h3>
+                <p>parexce qu eo jogo virou não e mesmo eu acho que da pra procegui, 
+                mais não vou para isso sim eu sei  isso dai vamos la fazer essa bagaça,
+                corporation strageira</p>
+                <a href="#" class="read">Mais informaçães</a>
+            </div>
+        </div>
+    </section>
+
+     <!--Portifolio section designer-->
+     <section class="portifolio" id="Portfólio">
+        <div class="main-text">
+            <p>Portifolio</p>
+            <h2><span>Projetos </span>Recentes</h2>
+        </div>
+
+        <div class="portifolio-content">
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/cinzer.jpg" >
+                <div class="layer">
+                    <h5>Visual Designer</h5>
+                    <p>cherque de mais ne venha pra loja rapaz,
+                    ta esperendo oque home</p>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+        </div>
+     </section>
+
+     
+     <!--contato cessão designer-->
+     <section class="contact" id="Contate-me">
+         <div class="contact-text">
+            <h2>Contate <span>Me!</span></h2>
+            <h4>Me chame para fazer o seu Projeto.</h4>
+            <p>cherque de mais ne venha pra loja rapaz,
+                ta esperendo oque home</p>
+            <div class="list">
+                <li><a href="#">79 98861-4232</a></li>
+                <li><a href="#">semelelpaul@gmail.com</a></li>
+                <li><a href="#">Se curtiu me ajuda com emprego</a></li>
+            </div>
+            <div class="contact-icons">
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-twitter'></i></a>
+                <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+                <a href="#"><i class='bx bxl-youtube' ></i></a>
+            </div>
+         </div>
+
+         <div class="contact-form">
+            <form action="">
+                <input type="nome" placeholder="Seu Nome" required>
+                <input type="email" placeholder="Seu Email" required>
+                <input type="" placeholder="Seu Número De Celular" required>
+                <textarea name="" id="" cols="35" rows="10" placeholder="Como Posso Aj udá-lo" required></textarea>
+                <input type="submit" value="Enviar" class="submit" required>
+            </form>
+         </div>
+     </section>
+
+      <!--endereço section designer-->
+      <section class="end">
+        <div class="last-text">
+            <p>copyright © 2023 Por Paulo Samuel Todos os Direitos Reservados.</p>
+        </div>
+        <div class="top">
+            <a href="#Lar"><i class='bx bx-up-arrow-alt'></i></a>
+        </div>
+      </section>
+
+    <!--link js-->
+    <script type="text/javascript" src="js/escript.js"></script>
+</body>
+</html>
